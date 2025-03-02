@@ -16,7 +16,7 @@ body {
     padding: 24px;
     background-color: #F0E8C2;
     border-radius: 24px;
-    margin: 48px auto;
+    margin: 48px auto 28px;
 }
 
 
@@ -55,6 +55,9 @@ ul {
 }
 
 footer {
+    font-size: 16px;
+    font-weight: 200;
     text-align: center;
+    margin-bottom: 48px;
     color: #F0E8C2;
 }
